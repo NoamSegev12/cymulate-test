@@ -1,0 +1,1 @@
+export const attackId = '63b3da64bd53e732fa32056b';
